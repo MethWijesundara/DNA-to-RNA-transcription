@@ -6,9 +6,9 @@ A small Python program I wrote while studying a little Biology.
 The program takes a DNA sequence (like AGCT) and generates the corresponding RNA sequence (for AGCT, it's UCGA ) by replacing each DNA base with its complementary RNA base. 
 
 ## Concepts I understood while building this project
-- A dictionary was used to store the complementary DNA → RNA base pairs. 
+- A **dictionary** was used to store the complementary DNA → RNA base pairs. 
 - Used string manipulation to convert any lowercase sequences to uppercase.
-- Used `''.join()` and a generator expression to build the resulting RNA sequence. 
+- Used `''.join()` and a **generator expression** to build the resulting RNA sequence. 
 
 ## Vulenrabilities
 - This program can technically break if someone enters an invalid character
