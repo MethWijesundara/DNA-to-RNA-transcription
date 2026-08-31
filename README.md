@@ -1,4 +1,4 @@
-# DNA → RNA Transcription
+# 🪴 DNA → RNA Transcription
 <img width="828" height="745" alt="image" src="https://github.com/user-attachments/assets/376f80d7-d6b3-447f-bb50-01a32c5ea911" />
 
 A small Python program I wrote while studying a little Biology. 
