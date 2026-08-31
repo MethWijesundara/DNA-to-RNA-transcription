@@ -10,6 +10,6 @@ The program takes a DNA sequence (like AGCT) and generates the corresponding RNA
 - Used string manipulation to convert any lowercase sequences to uppercase.
 - Used `''.join()` and a **generator expression** to build the resulting RNA sequence. 
 
-## Vulenrabilities
+## vulnerabilities
 - This program can technically break if someone enters an invalid character
 - Will be fixing input validation with a future update :)
