@@ -12,6 +12,10 @@ The program takes a DNA sequence (like AGCT) and generates the corresponding RNA
 - Used string manipulation to convert any lowercase sequences to uppercase.
 - Used `''.join()` and a **generator expression** to build the resulting RNA sequence. 
 
-## vulnerabilities
-- This program can technically break if someone enters an invalid character
-- Will be fixing input validation with a future update :)
+## Note
+I used AI (ChatGPT) to help explain and understand a few concepts, including: 
+- Input validation
+- The biology behind DNA to RNA conversion
+- The `.join()` method
+
+This project was super fun to make, and I learned a little more about both Python and the world around me. :) 
